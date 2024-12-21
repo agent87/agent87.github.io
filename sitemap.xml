@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://agent87.github.io/about.html</loc>
+         <lastmod>2024-12-21</lastmod>
+    </url>
+    <url>
+         <loc>https://agent87.github.io/resume.html</loc>
+         <lastmod>2024-12-21</lastmod>
+    </url>
+    <url>
+         <loc>https://agent87.github.io/blog/attending-pydata-paris-2024.html</loc>
+         <lastmod>2024-12-21</lastmod>
+    </url>
+    <url>
+         <loc>https://agent87.github.io/projects/deepspeech.html</loc>
+         <lastmod>2024-12-21</lastmod>
+    </url>
+    <url>
+         <loc>https://agent87.github.io/projects/osil.html</loc>
+         <lastmod>2024-12-21</lastmod>
+    </url>
+</urlset>
