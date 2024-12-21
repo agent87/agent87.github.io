@@ -1,0 +1,10 @@
+{
+  "types": [
+    {"type": "feat", "section": "Features"},
+    {"type": "fix", "section": "Bug Fixes"},
+    {"type": "docs", "section": "Documentation"},
+    {"type": "chore", "section": "Maintenance"},
+    {"type": "refactor", "section": "Refactor"},
+    {"type": "test", "section": "Tests"}
+  ]
+}
